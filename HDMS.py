@@ -1,4 +1,4 @@
-from hsuDataMain import Ui_HsuDataManagementSystem
+from hsuDataMainOLD import Ui_HsuDataManagementSystem
 from PyQt5 import QtCore, QtGui, QtWidgets
 import qdarkstyle
 import sys
